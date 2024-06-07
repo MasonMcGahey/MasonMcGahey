@@ -1,4 +1,13 @@
-## Hi there 👋
+<h1>Hi, I'm Mason! 
+
+<h2>👨‍💻 Scripting Projects:</h2>
+
+- <b>PowerShell</b>
+- <b>Python</b>
+
+
+<h2> Cybersecurity and IT Lab Projects </h2>
+
 
 <!--
 **MasonMcGahey/MasonMcGahey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
