@@ -7,7 +7,8 @@
 
 
 <h2> Cybersecurity and IT Lab Projects </h2>
-
+- <b>Enterprise Lab Environment</b>
+- <b>Implementing SOC & Honeynet in  Azure</b>
 
 <!--
 **MasonMcGahey/MasonMcGahey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
