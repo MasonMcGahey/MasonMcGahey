@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mason! 
+<h1>Hi, I'm Mason! </h1>
 
 <h2>👨‍💻 Scripting Projects:</h2>
 
