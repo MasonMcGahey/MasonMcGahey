@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Scripting Repositories:</h2>
 
-- <b>PowerShell</b>
-- <b>Python</b>
+- <b>PowerShell (https://github.com/MasonMcGahey/PowershellRepo/tree/main)</b>
+- <b>Python (https://github.com/MasonMcGahey/PowershellRepo/tree/main)</b>
 
 
 <h2> Cybersecurity and IT Lab Projects </h2>
