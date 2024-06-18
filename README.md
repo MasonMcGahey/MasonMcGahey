@@ -17,7 +17,7 @@
 
 <h2>Information Technology Projects</h2>
 
-- Enterprise Environment Lab
+- <b>Enterprise Environment Lab</b>
   - Utilizing Windows Server 2022, Windows 10 Pro, Splunk, and Kali Linux
 
 <!--
