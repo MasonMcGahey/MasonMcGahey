@@ -8,17 +8,16 @@
 - <b>ITIL V4 Foundations</b>
 - <b>AWS Cloud Practioner</b>
 - <b>LPI Linux Foundations</b>
-  
-
-<h2>👨‍💻 Script  Repos:</h2>
-
-- <b>PowerShell (https://github.com/MasonMcGahey/PowershellRepo/tree/main)</b>
-- <b>Python (https://github.com/MasonMcGahey/PowershellRepo/tree/main)</b>
 
 <h2>Information Technology Projects</h2>
 
 - <b>Enterprise Environment Lab</b>
   - Utilizing Windows Server 2022, Windows 10 Pro, Splunk, and Kali Linux
+
+<h2>👨‍💻 Script  Repos:</h2>
+
+- <b>PowerShell (https://github.com/MasonMcGahey/PowershellRepo/tree/main)</b>
+- <b>Python (https://github.com/MasonMcGahey/PowershellRepo/tree/main)</b>
 
 <!--
 **MasonMcGahey/MasonMcGahey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
