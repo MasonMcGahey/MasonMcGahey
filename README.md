@@ -5,25 +5,39 @@
 - <b>CompTIA A+</b>
 - <b>CompTIA Net+</b>
 - <b>CompTIA Sec+</b>
+- <b>CompTIA CySA+</b>
 - <b>ITIL V4 Foundations</b>
 - <b>AWS Cloud Practioner</b>
 - <b>LPI Linux Foundations</b>
 
 <h2>Information Technology Projects</h2>
 
-- <b>HomeLab</b>
-  - Enterprise Environment (Windows 10 Pro, Windows Server 2022, Active Directory)
-  - IPS/IDS Setup
-  - Automation
-    
-- <b>Python Projects Lab</b>
-  - Basic Flask Website
-  - IP and Port Scanner
-  - Password Manager
+- <b>Azure Cloud Projects</b>
+  - Azure Networking Lab
+  - Sentinel SIEM Lab
+  - Azure Terraform: Network and SIEM Automation
 
-<h2>👨‍💻 Script  Repos:</h2>
 
-- <b>PowerShell (https://github.com/MasonMcGahey/PowershellRepo/tree/main)</b>
+<h2>👨‍💻 Script and Coding Repos:</h2>
+
+- <b>PowerShell </b>
+  - Software Inventory Audit
+  - Ports Audit
+  - Services Audit
+  - Local Admin Audit
+  - 90 Account Inactivity Report
+  - Simple Backup Script
+- <b>Python </b>
+  - Log Parser and Threat Detection
+  - Password Manager with Database
+  - Port Scanner
+- <b>Bash </b>
+  - Security Baseline Checker
+  - ProxMox Replication and Backup Automation
+  - Proxmox VM Health & Availability Monitor
+  - ProxMox Fail-Over Script
+  - Backup Script
+
 
 <!--
 **MasonMcGahey/MasonMcGahey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
