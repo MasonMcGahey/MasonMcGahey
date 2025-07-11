@@ -8,9 +8,9 @@
   - CompTIA Sec+
   - CompTIA CySA+
 - <b>Cloud Certs</b>
-- AZ-900
-- AZ-104 
-- AWS Cloud Practioner
+  - AZ-900
+  - AZ-104 
+  - AWS Cloud Practioner
 - <b>ITIL V4 Foundations</b>
 - <b>LPI Linux Foundations</b>
 
