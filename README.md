@@ -13,8 +13,8 @@
 <h2>Information Technology Projects</h2>
 
 - <b>Azure Cloud Projects</b>
-  - Azure Networking Lab
-  - Sentinel SIEM Lab
+  - **Azure Networking Lab** – Hub-and-spoke topology with NSGs, route tables, and Azure Firewall
+  - **Sentinel SIEM Lab** – Log ingestion from Azure AD, Defender, and custom VMs with alert rules.
   - Azure Terraform: Network and SIEM Automation
 
 
