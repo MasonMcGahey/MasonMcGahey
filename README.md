@@ -14,29 +14,30 @@
 
 - <b>Azure Cloud Projects</b>
   - **Azure Networking Lab** – Hub-and-spoke topology with NSGs, route tables, and Azure Firewall
-  - **Sentinel SIEM Lab** – Log ingestion from Azure AD, Defender, and custom VMs with alert rules.
-  - Azure Terraform: Network and SIEM Automation
+  - **Sentinel SIEM Lab** – Log ingestion from Azure AD, Defender, and custom VMs with alert rules
+  - **Azure Terraform: Network and SIEM Automation** - Infrastructure-as-Code for automating secure cloud deployments
 
 
 <h2>👨‍💻 Script and Coding Repos:</h2>
 
 - <b>PowerShell </b>
-  - Software Inventory Audit
-  - Ports Audit
-  - Services Audit
-  - Local Admin Audit
-  - 90 Account Inactivity Report
-  - Simple Backup Script
+  - **Software Inventory Audit** – Lists all installed programs from the registry.
+  - **Ports Audit** – Identifies open listening ports and associated processes.
+  - **Services Audit** – Enumerates and checks Windows service states.
+  - **Local Admin Audit** – Detects unauthorized local admin accounts.
+  - **90-Day Account Inactivity Report** – Flags dormant AD accounts for review.
+  - **Simple Backup Script** – Creates timestamped file backups with minimal setup.
 - <b>Python </b>
-  - Log Parser and Threat Detection
-  - Password Manager with Database
-  - Port Scanner
+  - **Log Parser and Threat Detection** – Parses Windows event logs and flags suspicious activity.
+  - **Password Manager with Database** – CLI tool with hashed credentials and file-based encryption.
+  - **Port Scanner** – Multi-threaded TCP scanner with banner grabbing.
 - <b>Bash </b>
-  - Security Baseline Checker
-  - ProxMox Replication and Backup Automation
-  - Proxmox VM Health & Availability Monitor
-  - ProxMox Fail-Over Script
-  - Backup Script
+  - **Security Baseline Checker** – Audits Linux system configurations for hardening.
+  - **Proxmox Replication and Backup Automation** – Scheduled backups and replica syncs for HA.
+  - **Proxmox VM Health & Availability Monitor** – Alerts if VMs are down or unresponsive.
+  - **Proxmox Fail-Over Script** – Promotes replica VM during primary node failure.
+  - **Backup Script** – Cron-ready incremental file backup using `rsync`.
+
 
 
 <!--
