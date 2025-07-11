@@ -2,12 +2,16 @@
 
 <h2>👨‍💻 Certifications:</h2>
 
-- <b>CompTIA A+</b>
-- <b>CompTIA Net+</b>
-- <b>CompTIA Sec+</b>
-- <b>CompTIA CySA+</b>
+- <b>CompTIA Certs</b>
+  - CompTIA A+
+  - CompTIA Net+
+  - CompTIA Sec+
+  - CompTIA CySA+
+- <b>Cloud Certs</b>
+- AZ-900
+- AZ-104 
+- AWS Cloud Practioner
 - <b>ITIL V4 Foundations</b>
-- <b>AWS Cloud Practioner</b>
 - <b>LPI Linux Foundations</b>
 
 <h2>Information Technology Projects</h2>
