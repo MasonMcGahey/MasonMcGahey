@@ -31,6 +31,16 @@
   - **Proxmox HA Cluster** – 3-node Proxmox cluster with high availability, ZFS storage replication, scheduled backups, and VM failover testing Documentation
   - **GitOps CI/CD Lab** – Self-hosted Git service with automated VM and Docker app deployments using Drone CI or GitHub Actions and Proxmox API integration Documentation
   - **Lightweight Kubernetes Lab** – MicroK8s or K3s deployment on LXC/VMs with Helm, Ingress, and container networking for hands-on Kubernetes experience Documentation
+ 
+- <b>Terraform Projects</b>
+  - **AWS VPC Networking Lab** – Multi-VPC architecture with public/private subnets, custom route tables, security groups, and VPC peering Documentation
+ 
+- <b>Ansible Projects</b>
+  - **AWS VPC Networking Lab** – Multi-VPC architecture with public/private subnets, custom route tables, security groups, and VPC peering Documentation
+ 
+- <b>CI\CD Projects</b>
+  - **AWS VPC Networking Lab** – Multi-VPC architecture with public/private subnets, custom route tables, security groups, and VPC peering Documentation
+
 
 
 <h2>👨‍💻 Script and Coding Repos:</h2>
