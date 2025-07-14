@@ -21,6 +21,17 @@
   - **Sentinel SIEM Lab** – Log ingestion from Azure AD, Defender, and custom VMs with alert rules [Documentation](https://github.com/MasonMcGahey/Sentinel-SIEM-Lab)
   - **Azure Terraform: Network and SIEM Automation** - Infrastructure-as-Code for automating secure cloud deployments [Documentation](https://github.com/MasonMcGahey/Azure-Terraform-Automation-Lab)
 
+- <b>AWS Cloud Projects</b>
+  - **AWS VPC Networking Lab** – Multi-VPC architecture with public/private subnets, custom route tables, security groups, and VPC peering Documentation
+  - **AWS SIEM Lab** – Centralized log collection using CloudTrail, GuardDuty, Config, Athena queries, and CloudWatch alerts for suspicious activity Documentation
+  - **AWS Auto Scaling Web App – Highly available web app deployment with EC2, Launch Templates, Application Load Balancer, and Auto Scaling Groups Documentation
+  - **AWS Terraform: Infrastructure-as-Code Lab** – Modular Terraform deployment for VPCs, EC2 instances, IAM roles, and S3 buckets Documentation
+
+- <b>ProxMox Homelab Projects</b>
+  - **Proxmox HA Cluster** – 3-node Proxmox cluster with high availability, ZFS storage replication, scheduled backups, and VM failover testing Documentation
+  - **GitOps CI/CD Lab** – Self-hosted Git service with automated VM and Docker app deployments using Drone CI or GitHub Actions and Proxmox API integration Documentation
+  - **Lightweight Kubernetes Lab** – MicroK8s or K3s deployment on LXC/VMs with Helm, Ingress, and container networking for hands-on Kubernetes experience Documentation
+
 
 <h2>👨‍💻 Script and Coding Repos:</h2>
 
