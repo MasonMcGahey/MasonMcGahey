@@ -24,7 +24,7 @@
 - <b>AWS Cloud Projects</b>
   - **AWS VPC Networking Lab** – Multi-VPC architecture with public/private subnets, custom route tables, security groups, and VPC peering Documentation
   - **AWS SIEM Lab** – Centralized log collection using CloudTrail, GuardDuty, Config, Athena queries, and CloudWatch alerts for suspicious activity Documentation
-  - **AWS Auto Scaling Web App – Highly available web app deployment with EC2, Launch Templates, Application Load Balancer, and Auto Scaling Groups Documentation
+  - **AWS Auto Scaling Web App** – Highly available web app deployment with EC2, Launch Templates, Application Load Balancer, and Auto Scaling Groups Documentation
   - **AWS Terraform: Infrastructure-as-Code Lab** – Modular Terraform deployment for VPCs, EC2 instances, IAM roles, and S3 buckets Documentation
 
 - <b>ProxMox Homelab Projects</b>
