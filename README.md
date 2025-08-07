@@ -29,10 +29,21 @@
   - **90-Day Account Inactivity Report** – Flags dormant AD accounts for review.
 
 - <b>[Python-Log-Parser-Web-App](https://github.com/MasonMcGahey/Python-Repo) </b>
+  - Flask-based log ingestion and analysis tool with SQL storage and REST API.
+  - Features: Parse raw or JSON logs, store in Postgres/SQLite, search/filter via API, basic web dashboard.
+  - Stack: Python, Flask, SQLAlchemy, Alembic, Postgres/SQLite, Docker.
 
 - <b>[Python-PDF-to-Excel-Web-App](https://github.com/MasonMcGahey/Python-Repo) </b>
+  - Web & CLI tool to convert structured PDF data to Excel spreadsheets.
+  - Features: PDF parsing with configurable regex/field mapping; export to XLSX.
+  - Stack: Python, Flask, pdfplumber, Pandas, OpenPyXL.
+  - Highlights: Designed for policy/benchmark parsing automation.
 
 - <b>[Python-To-Do-List-Web-App](https://github.com/MasonMcGahey/Python-Repo) </b>
+  - Full-stack Flask to-do application with SQL backend and REST API.
+  - Features: CRUD tasks with priority, due dates, and search; API & web UI.
+  - Stack: Python, Flask, SQLAlchemy, Alembic, Postgres/SQLite, Docker.
+  - Highlights: Extensible for auth, labels, Kanban view.
 
 
 
